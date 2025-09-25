@@ -1,0 +1,75 @@
+[
+  {
+    "source": "IRS Seized Real Estate",
+    "external_id": "fl_miami_warehouse",
+    "title": "Miami Industrial Flex Warehouse",
+    "url": "https://www.treasury.gov/auctions/irs/fl_miami_warehouse.htm",
+    "state": "FL",
+    "county": "Miami-Dade",
+    "city": "Miami",
+    "address": "1250 NW 23rd Street",
+    "zip_code": "33142",
+    "sale_date": "2025-07-15T14:00:00",
+    "sale_type": "Federal seizure auction",
+    "status": "Active",
+    "minimum_bid": 185000.0,
+    "current_bid": null,
+    "deposit": 15000.0,
+    "acreage": 1.7,
+    "property_type": "Commercial Property",
+    "tags": ["IRS", "Seizure", "Federal", "Commercial"],
+    "description": "Warehouse space zoned IU-2 near Port of Miami. Includes fenced laydown yard and two grade-level loading bays.",
+    "raw_data": {
+      "source": "demo",
+      "page_url": "https://www.treasury.gov/auctions/irs/fl_miami_warehouse.htm"
+    }
+  },
+  {
+    "source": "Bid4Assets Florida County Auctions",
+    "external_id": "703219",
+    "title": "Duval County Tax Deed: Vacant Commercial Lot",
+    "url": "https://www.bid4assets.com/auction/703219",
+    "state": "FL",
+    "county": "Duval",
+    "city": "Jacksonville",
+    "address": "0 W Beaver St",
+    "zip_code": "32254",
+    "sale_date": "2025-06-22T10:00:00",
+    "sale_type": "County tax deed auction",
+    "status": "Active",
+    "minimum_bid": 32000.0,
+    "current_bid": 32000.0,
+    "deposit": null,
+    "acreage": 0.92,
+    "property_type": "Vacant Land",
+    "tags": ["Bid4Assets", "Tax Deed"],
+    "description": "Corner lot zoned CC-G allowing light industrial and retail. Close proximity to I-95 corridor.",
+    "raw_data": {
+      "source": "demo"
+    }
+  },
+  {
+    "source": "Bid4Assets Florida County Auctions",
+    "external_id": "705884",
+    "title": "Polk County Tax Lien: Rural Acreage",
+    "url": "https://www.bid4assets.com/auction/705884",
+    "state": "FL",
+    "county": "Polk",
+    "city": "Frostproof",
+    "address": "TBD Sand Ridge Rd",
+    "zip_code": "33843",
+    "sale_date": "2025-05-18T09:00:00",
+    "sale_type": "County tax lien auction",
+    "status": "Active",
+    "minimum_bid": 12500.0,
+    "current_bid": 12500.0,
+    "deposit": null,
+    "acreage": 5.4,
+    "property_type": "Vacant Land",
+    "tags": ["Bid4Assets", "Tax Deed", "Tax Lien"],
+    "description": "Rolling pasture with electric nearby. Agricultural zoning allows small agribusiness operations.",
+    "raw_data": {
+      "source": "demo"
+    }
+  }
+]
